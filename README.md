@@ -2,7 +2,7 @@
 This project focuses on the analysis and visualization of sales data for a fictional chocolate company using Power BI. The goal is to create an interactive and dynamic dashboard that effectively presents the findings of the sales data analysis, providing insights into product performance, salesperson performance, and other key metrics.
 
 # Quick Link
-
+![Dashboard](sales_dashboard.pbix)
 
 # Data Collection and Cleaning
 The analysis uses five main data tables, all contained in a single Excel file:
